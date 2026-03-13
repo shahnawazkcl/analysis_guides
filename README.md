@@ -27,6 +27,6 @@ Below is a list of tutorials with notebook files available in Google Colab:
 
 10. [Visium HD Multi-sample Analysis in Python: a Tutorial in Google Colab](https://www.10xgenomics.com/analysis-guides/tutorial-visium-hd-multi-sample-python-colab) (R) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/10XGenomics/analysis_guides/blob/main/Visium_HD_multi_sample_comparison_python.ipynb)
 
-12. [Quality Control and Filtering of 10x Genomics Epi Multiome Data: Two Tutorials in Google Colab](https://www.10xgenomics.com/analysis-guides/tutorials-epi-multiome-qc)
-- Epi Multiome QC tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/10XGenomics/analysis_guides/blob/main/Epi_multiome_QC_tutorial.ipynb)
-- Companion tutorial with interactive visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/10XGenomics/analysis_guides/blob/main/Epi_multiome_QC_interactive_visualization.ipynb)
+11. [Quality Control and Filtering of 10x Genomics Epi Multiome Data: Two Tutorials in Google Colab](https://www.10xgenomics.com/analysis-guides/tutorials-epi-multiome-qc)
+- Epi Multiome QC tutorial (R) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/10XGenomics/analysis_guides/blob/main/Epi_multiome_QC_tutorial.ipynb)
+- Companion tutorial with interactive visualization (Python) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/10XGenomics/analysis_guides/blob/main/Epi_multiome_QC_interactive_visualization.ipynb)
